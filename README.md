@@ -1,3 +1,14 @@
+# Goal of this project
+The goals of this project are stated directly below
+
+## Responsive design
+The first goal of this application is to learn [responsive design](https://www.w3schools.com/css/css_rwd_intro.asp) using css.  
+By using `@media` option in css to set width, we can set different displays for differing widths
+
+## Typescript + webpack
+The second goal of this application is to learn typscript and webpack.  
+I aim to rewrite the application using typescript and bundle it with webpack
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
