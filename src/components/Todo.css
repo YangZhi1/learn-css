@@ -1,0 +1,17 @@
+input:focus {
+  outline-color: deepskyblue;
+  outline-offset: 1px;
+}
+
+.add-todo-button {
+  margin-left: 5px;
+}
+
+li {
+  list-style-type: none;
+}
+
+.todo-row {
+  display: flex;
+  flex-direction: row;
+}
